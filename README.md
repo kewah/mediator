@@ -5,7 +5,7 @@ Loosely coupled pub sub accross modules
 ## Installation
 
 ```
-$ component install component/Mediator
+$ component install kewah/mediator
 ```
 
 ## Usage
